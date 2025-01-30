@@ -5,6 +5,10 @@ public class Demo1 {
 		
 		System.out.println("**********");
 		
+		String obj = new Demo1;
+		
+		
+		
 	}
 	
 	
