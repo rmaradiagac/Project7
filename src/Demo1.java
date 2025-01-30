@@ -7,8 +7,8 @@ public class Demo1 {
 		
 		String obj = new Demo1;
 		
-		
-		
+		Demo1 obj = new Demo1();
+		// Fixed Cosntructor
 	}
 	
 	
